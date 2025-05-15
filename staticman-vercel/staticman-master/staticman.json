@@ -1,0 +1,13 @@
+{
+  "git": {
+    "remote": "https://github.com/hhmonar/mi-blog.git",
+    "branch": "main"
+  },
+  "moderation": false,
+  "notifications": {},
+  "reCaptcha": {
+    "enabled": true,
+    "siteKey": "6LdwgTorAAAAAJQDEzinGcPVKR8nGrFeNB1QLoT8",
+    "secret": "6LdwgTorAAAAAEJggWZrTblcnawWTSFi74Wrx0RT"
+  }
+}
